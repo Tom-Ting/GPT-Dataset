@@ -1,0 +1,234 @@
+开始  安卓---->ios 放回实验---------------------------------------------
+开始   安卓第1步--->ios第1步   回放
+2024-04-07 16:41:00.287cn.iselab.mooctest.lit.util.OSUtil       : 开始第1步脚本的回放
+2024-04-07 16:41:00.287cn.iselab.mooctest.lit.util.OSUtil       : ## 图象匹配模块开始 ##
+2024-04-07 16:41:03.621c.i.m.lit.service.impl.RuleServiceImpl   : 匹配类规则——调用widgetTypeMatch方法
+525 1271
+2024-04-07 16:41:05.778cn.iselab.mooctest.lit.util.OSUtil       : widgetTypeMatch成功，找到坐标点为(525,1271).
+2024-04-07 16:41:05.778cn.iselab.mooctest.lit.util.OSUtil       : 图像规则匹配执行成功
+2024-04-07 16:41:05.778cn.iselab.mooctest.lit.util.OSUtil       : 匹配结果为[525, 1271]
+2024-04-07 16:41:07.799c.i.mooctest.lit.experimentMultipleTest  : 参考坐标为      [379,1286]
+开始   安卓第2步--->ios第2步   回放
+2024-04-07 16:41:08.806cn.iselab.mooctest.lit.util.OSUtil       : 开始第2步脚本的回放
+2024-04-07 16:41:08.806cn.iselab.mooctest.lit.util.OSUtil       : ## 图象匹配模块开始 ##
+2024-04-07 16:41:11.036c.i.m.lit.service.impl.RuleServiceImpl   : 匹配类规则——调用widgetTypeMatch方法
+Fail
+2024-04-07 16:41:15.102c.i.m.lit.service.impl.RuleServiceImpl   : 匹配类规则——widgetTypeMatch方法未匹配到结果
+2024-04-07 16:41:15.103c.i.m.lit.service.impl.RuleServiceImpl   : 匹配类规则——调用layout方法
+2024-04-07 16:41:15.315cn.iselab.mooctest.lit.util.OSUtil       : 匹配类规则——调用layout方法未匹配到结果
+2024-04-07 16:41:15.315cn.iselab.mooctest.lit.util.OSUtil       : 图像规则匹配执行失败
+2024-04-07 16:41:15.315cn.iselab.mooctest.lit.util.OSUtil       : ## 文本匹配模块开始 ##
+2024-04-07 16:41:15.315c.i.m.lit.service.impl.RuleServiceImpl   : 匹配类规则——调用semanticMatch方法
+2024-04-07 16:41:16.553cn.iselab.mooctest.lit.util.OSUtil       : 匹配类规则——调用semanticMatch方法未匹配到结果
+2024-04-07 16:41:16.554cn.iselab.mooctest.lit.util.OSUtil       : 文本匹配执行失败
+2024-04-07 16:41:16.554cn.iselab.mooctest.lit.util.OSUtil       : ## ChatGPT辅助匹配模块启动 ##
+2024-04-07 16:41:16.554c.i.m.lit.service.impl.RuleServiceImpl   : chatGPT辅助测试模块——调用chatGPTServerMatch方法
+2024-04-07 16:41:16.554c.i.m.lit.service.impl.RuleServiceImpl   : chatGPT模块数据预处理！
+2024-04-07 16:41:24.546c.i.m.lit.service.impl.RuleServiceImpl   : chatGPT服务返回： -1 -1
+2024-04-07 16:41:24.547cn.iselab.mooctest.lit.util.OSUtil       : ChatGPT辅助匹配模块——录制冗余，即跳过当前录制步骤
+2024-04-07 16:41:24.552c.i.mooctest.lit.experimentMultipleTest  : 参考坐标为      [75,1287]
+开始   安卓第3步--->ios第3步   回放
+2024-04-07 16:41:25.555cn.iselab.mooctest.lit.util.OSUtil       : 开始第3步脚本的回放
+2024-04-07 16:41:25.555cn.iselab.mooctest.lit.util.OSUtil       : ## 图象匹配模块开始 ##
+2024-04-07 16:41:27.868c.i.m.lit.service.impl.RuleServiceImpl   : 匹配类规则——调用widgetTypeMatch方法
+199 97
+2024-04-07 16:41:28.623cn.iselab.mooctest.lit.util.OSUtil       : widgetTypeMatch成功，找到坐标点为(199,97).
+2024-04-07 16:41:28.623cn.iselab.mooctest.lit.util.OSUtil       : 图像规则匹配执行成功
+2024-04-07 16:41:28.623cn.iselab.mooctest.lit.util.OSUtil       : 匹配结果为[199, 97]
+2024-04-07 16:41:30.634c.i.mooctest.lit.experimentMultipleTest  : 参考坐标为      [233,194]
+开始   安卓第4步--->ios第4步   回放
+2024-04-07 16:41:31.644cn.iselab.mooctest.lit.util.OSUtil       : 开始第4步脚本的回放
+2024-04-07 16:41:31.644cn.iselab.mooctest.lit.util.OSUtil       : ## 图象匹配模块开始 ##
+2024-04-07 16:41:33.913c.i.m.lit.service.impl.RuleServiceImpl   : 匹配类规则——调用widgetTypeMatch方法
+151 1134
+2024-04-07 16:41:34.724cn.iselab.mooctest.lit.util.OSUtil       : widgetTypeMatch成功，找到坐标点为(151,1134).
+2024-04-07 16:41:34.725cn.iselab.mooctest.lit.util.OSUtil       : 图像规则匹配执行成功
+2024-04-07 16:41:34.725cn.iselab.mooctest.lit.util.OSUtil       : 匹配结果为[151, 1134]
+2024-04-07 16:41:36.731c.i.mooctest.lit.experimentMultipleTest  : 参考坐标为      [224,1284]
+开始   安卓第5步--->ios第5步   回放
+2024-04-07 16:41:37.742cn.iselab.mooctest.lit.util.OSUtil       : 开始第5步脚本的回放
+2024-04-07 16:41:37.742cn.iselab.mooctest.lit.util.OSUtil       : ## 图象匹配模块开始 ##
+2024-04-07 16:41:40.056c.i.m.lit.service.impl.RuleServiceImpl   : 匹配类规则——调用widgetTypeMatch方法
+409 188
+2024-04-07 16:41:40.499cn.iselab.mooctest.lit.util.OSUtil       : widgetTypeMatch成功，找到坐标点为(409,188).
+2024-04-07 16:41:40.499cn.iselab.mooctest.lit.util.OSUtil       : 图像规则匹配执行成功
+2024-04-07 16:41:40.500cn.iselab.mooctest.lit.util.OSUtil       : 匹配结果为[409, 188]
+2024-04-07 16:41:42.508c.i.mooctest.lit.experimentMultipleTest  : 参考坐标为      [470,307]
+开始   安卓第6步--->ios第6步   回放
+2024-04-07 16:41:43.518cn.iselab.mooctest.lit.util.OSUtil       : 开始第6步脚本的回放
+2024-04-07 16:41:43.518cn.iselab.mooctest.lit.util.OSUtil       : ## 图象匹配模块开始 ##
+2024-04-07 16:41:45.558c.i.m.lit.service.impl.RuleServiceImpl   : 匹配类规则——调用widgetTypeMatch方法
+Fail
+2024-04-07 16:41:45.716c.i.m.lit.service.impl.RuleServiceImpl   : 匹配类规则——widgetTypeMatch方法未匹配到结果
+2024-04-07 16:41:45.717c.i.m.lit.service.impl.RuleServiceImpl   : 匹配类规则——调用layout方法
+2024-04-07 16:41:45.970cn.iselab.mooctest.lit.util.OSUtil       : 匹配类规则——调用layout方法未匹配到结果
+2024-04-07 16:41:45.970cn.iselab.mooctest.lit.util.OSUtil       : 图像规则匹配执行失败
+2024-04-07 16:41:45.970cn.iselab.mooctest.lit.util.OSUtil       : ## 文本匹配模块开始 ##
+2024-04-07 16:41:45.971c.i.m.lit.service.impl.RuleServiceImpl   : 匹配类规则——调用semanticMatch方法
+2024-04-07 16:41:48.106cn.iselab.mooctest.lit.util.OSUtil       : 匹配类规则——调用semanticMatch方法未匹配到结果
+2024-04-07 16:41:48.107cn.iselab.mooctest.lit.util.OSUtil       : 文本匹配执行失败
+2024-04-07 16:41:48.107cn.iselab.mooctest.lit.util.OSUtil       : ## ChatGPT辅助匹配模块启动 ##
+2024-04-07 16:41:48.107c.i.m.lit.service.impl.RuleServiceImpl   : chatGPT辅助测试模块——调用chatGPTServerMatch方法
+2024-04-07 16:41:48.107c.i.m.lit.service.impl.RuleServiceImpl   : chatGPT模块数据预处理！
+2024-04-07 16:42:04.948c.i.m.lit.service.impl.RuleServiceImpl   : chatGPT服务返回： -1 -1
+2024-04-07 16:42:04.949cn.iselab.mooctest.lit.util.OSUtil       : ChatGPT辅助匹配模块——录制冗余，即跳过当前录制步骤
+2024-04-07 16:42:04.954c.i.mooctest.lit.experimentMultipleTest  : 参考坐标为      [76,413]
+开始   安卓第7步--->ios第7步   回放
+2024-04-07 16:42:05.969cn.iselab.mooctest.lit.util.OSUtil       : 开始第7步脚本的回放
+2024-04-07 16:42:05.969cn.iselab.mooctest.lit.util.OSUtil       : ## 图象匹配模块开始 ##
+2024-04-07 16:42:06.341cn.iselab.mooctest.lit.util.OSUtil       : imageMatch方法: 匹配结果为[688,86]
+2024-04-07 16:42:08.346cn.iselab.mooctest.lit.util.OSUtil       : 匹配结果为[688, 86]
+2024-04-07 16:42:10.356c.i.mooctest.lit.experimentMultipleTest  : 参考坐标为      [696,90]
+开始   安卓第8步--->ios第8步   回放
+2024-04-07 16:42:11.367cn.iselab.mooctest.lit.util.OSUtil       : 开始第8步脚本的回放
+2024-04-07 16:42:11.368cn.iselab.mooctest.lit.util.OSUtil       : ## 图象匹配模块开始 ##
+2024-04-07 16:42:13.597c.i.m.lit.service.impl.RuleServiceImpl   : 匹配类规则——调用widgetTypeMatch方法
+Fail
+2024-04-07 16:42:16.597c.i.m.lit.service.impl.RuleServiceImpl   : 匹配类规则——widgetTypeMatch方法未匹配到结果
+2024-04-07 16:42:16.598c.i.m.lit.service.impl.RuleServiceImpl   : 匹配类规则——调用layout方法
+2024-04-07 16:42:16.835cn.iselab.mooctest.lit.util.OSUtil       : 图像匹配成功，找到坐标点为(71,79).
+2024-04-07 16:42:16.836cn.iselab.mooctest.lit.util.OSUtil       : 图像规则匹配执行成功
+2024-04-07 16:42:16.836cn.iselab.mooctest.lit.util.OSUtil       : 匹配结果为[71, 79]
+2024-04-07 16:42:18.847c.i.mooctest.lit.experimentMultipleTest  : 参考坐标为      [73,84]
+开始   安卓第9步--->ios第9步   回放
+2024-04-07 16:42:19.853cn.iselab.mooctest.lit.util.OSUtil       : 开始第9步脚本的回放
+2024-04-07 16:42:19.853cn.iselab.mooctest.lit.util.OSUtil       : ## 图象匹配模块开始 ##
+2024-04-07 16:42:22.169c.i.m.lit.service.impl.RuleServiceImpl   : 匹配类规则——调用widgetTypeMatch方法
+Fail
+2024-04-07 16:42:22.338c.i.m.lit.service.impl.RuleServiceImpl   : 匹配类规则——widgetTypeMatch方法未匹配到结果
+2024-04-07 16:42:22.338c.i.m.lit.service.impl.RuleServiceImpl   : 匹配类规则——调用layout方法
+2024-04-07 16:42:22.828cn.iselab.mooctest.lit.util.OSUtil       : 匹配类规则——调用layout方法未匹配到结果
+2024-04-07 16:42:22.828cn.iselab.mooctest.lit.util.OSUtil       : 图像规则匹配执行失败
+2024-04-07 16:42:22.829cn.iselab.mooctest.lit.util.OSUtil       : ## 文本匹配模块开始 ##
+2024-04-07 16:42:22.829c.i.m.lit.service.impl.RuleServiceImpl   : 匹配类规则——调用semanticMatch方法
+2024-04-07 16:42:24.281cn.iselab.mooctest.lit.util.OSUtil       : 匹配类规则——调用semanticMatch方法未匹配到结果
+2024-04-07 16:42:24.281cn.iselab.mooctest.lit.util.OSUtil       : 文本匹配执行失败
+2024-04-07 16:42:24.281cn.iselab.mooctest.lit.util.OSUtil       : ## ChatGPT辅助匹配模块启动 ##
+2024-04-07 16:42:24.281c.i.m.lit.service.impl.RuleServiceImpl   : chatGPT辅助测试模块——调用chatGPTServerMatch方法
+2024-04-07 16:42:24.282c.i.m.lit.service.impl.RuleServiceImpl   : chatGPT模块数据预处理！
+2024-04-07 16:42:44.433c.i.m.lit.service.impl.RuleServiceImpl   : chatGPT服务返回： -1 -1
+2024-04-07 16:42:44.433cn.iselab.mooctest.lit.util.OSUtil       : ChatGPT辅助匹配模块——录制冗余，即跳过当前录制步骤
+2024-04-07 16:42:44.438c.i.mooctest.lit.experimentMultipleTest  : 参考坐标为      [71,1290]
+开始   安卓第10步--->ios第10步   回放
+2024-04-07 16:42:45.446cn.iselab.mooctest.lit.util.OSUtil       : 开始第10步脚本的回放
+2024-04-07 16:42:45.446cn.iselab.mooctest.lit.util.OSUtil       : ## 图象匹配模块开始 ##
+2024-04-07 16:42:47.723c.i.m.lit.service.impl.RuleServiceImpl   : 匹配类规则——调用widgetTypeMatch方法
+375 194
+2024-04-07 16:42:48.246cn.iselab.mooctest.lit.util.OSUtil       : widgetTypeMatch成功，找到坐标点为(375,194).
+2024-04-07 16:42:48.246cn.iselab.mooctest.lit.util.OSUtil       : 图像规则匹配执行成功
+2024-04-07 16:42:48.246cn.iselab.mooctest.lit.util.OSUtil       : 匹配结果为[375, 194]
+2024-04-07 16:42:50.262c.i.mooctest.lit.experimentMultipleTest  : 参考坐标为      [375,198]
+用时110s
+结束！---------------------------------------------------------
+开始  ios---->安卓 放回实验---------------------------------------------
+开始   ios第1步--->安卓第1步   回放
+2024-04-07 16:42:51.271cn.iselab.mooctest.lit.util.OSUtil       : 开始第1步脚本的回放
+2024-04-07 16:42:51.271cn.iselab.mooctest.lit.util.OSUtil       : ## 图象匹配模块开始 ##
+2024-04-07 16:42:53.898c.i.m.lit.service.impl.RuleServiceImpl   : 匹配类规则——调用widgetTypeMatch方法
+541 2245
+2024-04-07 16:42:54.764cn.iselab.mooctest.lit.util.OSUtil       : widgetTypeMatch成功，找到坐标点为(541,2245).
+2024-04-07 16:42:54.764cn.iselab.mooctest.lit.util.OSUtil       : 图像规则匹配执行成功
+2024-04-07 16:42:54.765cn.iselab.mooctest.lit.util.OSUtil       : 匹配结果为[541, 2245]
+2024-04-07 16:42:56.776c.i.mooctest.lit.experimentMultipleTest  : 参考坐标为      [574,2181]
+开始   ios第2步--->安卓第2步   回放
+2024-04-07 16:42:57.778cn.iselab.mooctest.lit.util.OSUtil       : 开始第2步脚本的回放
+2024-04-07 16:42:57.778cn.iselab.mooctest.lit.util.OSUtil       : ## 图象匹配模块开始 ##
+2024-04-07 16:43:00.309c.i.m.lit.service.impl.RuleServiceImpl   : 匹配类规则——调用widgetTypeMatch方法
+107 2245
+2024-04-07 16:43:00.794cn.iselab.mooctest.lit.util.OSUtil       : widgetTypeMatch成功，找到坐标点为(107,2245).
+2024-04-07 16:43:00.794cn.iselab.mooctest.lit.util.OSUtil       : 图像规则匹配执行成功
+2024-04-07 16:43:00.794cn.iselab.mooctest.lit.util.OSUtil       : 匹配结果为[107, 2245]
+2024-04-07 16:43:02.796c.i.mooctest.lit.experimentMultipleTest  : 参考坐标为      [79,182]
+开始   ios第3步--->安卓第3步   回放
+2024-04-07 16:43:03.806cn.iselab.mooctest.lit.util.OSUtil       : 开始第3步脚本的回放
+2024-04-07 16:43:03.806cn.iselab.mooctest.lit.util.OSUtil       : ## 图象匹配模块开始 ##
+2024-04-07 16:43:06.394c.i.m.lit.service.impl.RuleServiceImpl   : 匹配类规则——调用widgetTypeMatch方法
+541 318
+2024-04-07 16:43:08.240cn.iselab.mooctest.lit.util.OSUtil       : widgetTypeMatch成功，找到坐标点为(541,318).
+2024-04-07 16:43:08.241cn.iselab.mooctest.lit.util.OSUtil       : 图像规则匹配执行成功
+2024-04-07 16:43:08.241cn.iselab.mooctest.lit.util.OSUtil       : 匹配结果为[541, 318]
+2024-04-07 16:43:10.245c.i.mooctest.lit.experimentMultipleTest  : 参考坐标为      [321,313]
+开始   ios第4步--->安卓第4步   回放
+2024-04-07 16:43:11.254cn.iselab.mooctest.lit.util.OSUtil       : 开始第4步脚本的回放
+2024-04-07 16:43:11.254cn.iselab.mooctest.lit.util.OSUtil       : ## 图象匹配模块开始 ##
+2024-04-07 16:43:13.839c.i.m.lit.service.impl.RuleServiceImpl   : 匹配类规则——调用widgetTypeMatch方法
+Fail
+2024-04-07 16:43:14.018c.i.m.lit.service.impl.RuleServiceImpl   : 匹配类规则——widgetTypeMatch方法未匹配到结果
+2024-04-07 16:43:14.019c.i.m.lit.service.impl.RuleServiceImpl   : 匹配类规则——调用layout方法
+2024-04-07 16:43:14.498cn.iselab.mooctest.lit.util.OSUtil       : 匹配类规则——调用layout方法未匹配到结果
+2024-04-07 16:43:14.498cn.iselab.mooctest.lit.util.OSUtil       : 图像规则匹配执行失败
+2024-04-07 16:43:14.498cn.iselab.mooctest.lit.util.OSUtil       : ## 文本匹配模块开始 ##
+2024-04-07 16:43:14.499c.i.m.lit.service.impl.RuleServiceImpl   : 匹配类规则——调用semanticMatch方法
+2024-04-07 16:43:16.603cn.iselab.mooctest.lit.util.OSUtil       : 匹配类规则——调用semanticMatch方法未匹配到结果
+2024-04-07 16:43:16.604cn.iselab.mooctest.lit.util.OSUtil       : 文本匹配执行失败
+2024-04-07 16:43:16.604cn.iselab.mooctest.lit.util.OSUtil       : ## ChatGPT辅助匹配模块启动 ##
+2024-04-07 16:43:16.604c.i.m.lit.service.impl.RuleServiceImpl   : chatGPT辅助测试模块——调用chatGPTServerMatch方法
+2024-04-07 16:43:16.604c.i.m.lit.service.impl.RuleServiceImpl   : chatGPT模块数据预处理！
+2024-04-07 16:43:32.927c.i.m.lit.service.impl.RuleServiceImpl   : chatGPT服务返回： -1 -1
+2024-04-07 16:43:32.928cn.iselab.mooctest.lit.util.OSUtil       : ChatGPT辅助匹配模块——录制冗余，即跳过当前录制步骤
+2024-04-07 16:43:32.928c.i.mooctest.lit.experimentMultipleTest  : 参考坐标为      [330,2189]
+开始   ios第5步--->安卓第5步   回放
+2024-04-07 16:43:33.932cn.iselab.mooctest.lit.util.OSUtil       : 开始第5步脚本的回放
+2024-04-07 16:43:33.932cn.iselab.mooctest.lit.util.OSUtil       : ## 图象匹配模块开始 ##
+2024-04-07 16:43:36.445c.i.m.lit.service.impl.RuleServiceImpl   : 匹配类规则——调用widgetTypeMatch方法
+949 374
+2024-04-07 16:43:37.289cn.iselab.mooctest.lit.util.OSUtil       : widgetTypeMatch成功，找到坐标点为(949,374).
+2024-04-07 16:43:37.290cn.iselab.mooctest.lit.util.OSUtil       : 图像规则匹配执行成功
+2024-04-07 16:43:37.290cn.iselab.mooctest.lit.util.OSUtil       : 匹配结果为[949, 374]
+2024-04-07 16:43:39.294c.i.mooctest.lit.experimentMultipleTest  : 参考坐标为      [668,368]
+开始   ios第6步--->安卓第6步   回放
+2024-04-07 16:43:40.308cn.iselab.mooctest.lit.util.OSUtil       : 开始第6步脚本的回放
+2024-04-07 16:43:40.308cn.iselab.mooctest.lit.util.OSUtil       : ## 图象匹配模块开始 ##
+2024-04-07 16:43:42.824c.i.m.lit.service.impl.RuleServiceImpl   : 匹配类规则——调用widgetTypeMatch方法
+Fail
+2024-04-07 16:43:43.012c.i.m.lit.service.impl.RuleServiceImpl   : 匹配类规则——widgetTypeMatch方法未匹配到结果
+2024-04-07 16:43:43.012c.i.m.lit.service.impl.RuleServiceImpl   : 匹配类规则——调用layout方法
+2024-04-07 16:43:43.263cn.iselab.mooctest.lit.util.OSUtil       : 匹配类规则——调用layout方法未匹配到结果
+2024-04-07 16:43:43.263cn.iselab.mooctest.lit.util.OSUtil       : 图像规则匹配执行失败
+2024-04-07 16:43:43.263cn.iselab.mooctest.lit.util.OSUtil       : ## 文本匹配模块开始 ##
+2024-04-07 16:43:43.263c.i.m.lit.service.impl.RuleServiceImpl   : 匹配类规则——调用semanticMatch方法
+2024-04-07 16:43:43.276cn.iselab.mooctest.lit.util.OSUtil       : 匹配类规则——调用semanticMatch方法未匹配到结果
+2024-04-07 16:43:43.277cn.iselab.mooctest.lit.util.OSUtil       : 文本匹配执行失败
+2024-04-07 16:43:43.277cn.iselab.mooctest.lit.util.OSUtil       : ## ChatGPT辅助匹配模块启动 ##
+2024-04-07 16:43:43.277c.i.m.lit.service.impl.RuleServiceImpl   : chatGPT辅助测试模块——调用chatGPTServerMatch方法
+2024-04-07 16:43:43.277c.i.m.lit.service.impl.RuleServiceImpl   : chatGPT模块数据预处理！
+2024-04-07 16:43:54.208c.i.m.lit.service.impl.RuleServiceImpl   : chatGPT服务返回： -1 -1
+2024-04-07 16:43:54.209cn.iselab.mooctest.lit.util.OSUtil       : ChatGPT辅助匹配模块——录制冗余，即跳过当前录制步骤
+2024-04-07 16:43:54.209c.i.mooctest.lit.experimentMultipleTest  : 参考坐标为      [123,583]
+开始   ios第7步--->安卓第7步   回放
+2024-04-07 16:43:55.221cn.iselab.mooctest.lit.util.OSUtil       : 开始第7步脚本的回放
+2024-04-07 16:43:55.221cn.iselab.mooctest.lit.util.OSUtil       : ## 图象匹配模块开始 ##
+2024-04-07 16:43:55.806cn.iselab.mooctest.lit.util.OSUtil       : imageMatch方法: 匹配结果为[1008,185]
+2024-04-07 16:43:57.814cn.iselab.mooctest.lit.util.OSUtil       : 匹配结果为[1008, 185]
+2024-04-07 16:43:59.819c.i.mooctest.lit.experimentMultipleTest  : 参考坐标为      [1010,185]
+开始   ios第8步--->安卓第8步   回放
+2024-04-07 16:44:00.822cn.iselab.mooctest.lit.util.OSUtil       : 开始第8步脚本的回放
+2024-04-07 16:44:00.822cn.iselab.mooctest.lit.util.OSUtil       : ## 图象匹配模块开始 ##
+2024-04-07 16:44:03.348c.i.m.lit.service.impl.RuleServiceImpl   : 匹配类规则——调用widgetTypeMatch方法
+Fail
+2024-04-07 16:44:03.509c.i.m.lit.service.impl.RuleServiceImpl   : 匹配类规则——widgetTypeMatch方法未匹配到结果
+2024-04-07 16:44:03.509c.i.m.lit.service.impl.RuleServiceImpl   : 匹配类规则——调用layout方法
+2024-04-07 16:44:03.735cn.iselab.mooctest.lit.util.OSUtil       : 图像匹配成功，找到坐标点为(75,163).
+2024-04-07 16:44:03.736cn.iselab.mooctest.lit.util.OSUtil       : 图像规则匹配执行成功
+2024-04-07 16:44:03.736cn.iselab.mooctest.lit.util.OSUtil       : 匹配结果为[75, 163]
+2024-04-07 16:44:05.739c.i.mooctest.lit.experimentMultipleTest  : 参考坐标为      [80,181]
+开始   ios第9步--->安卓第9步   回放
+2024-04-07 16:44:06.742cn.iselab.mooctest.lit.util.OSUtil       : 开始第9步脚本的回放
+2024-04-07 16:44:06.742cn.iselab.mooctest.lit.util.OSUtil       : ## 图象匹配模块开始 ##
+2024-04-07 16:44:07.320cn.iselab.mooctest.lit.util.OSUtil       : imageMatch方法: 匹配结果为[99,2204]
+2024-04-07 16:44:09.335cn.iselab.mooctest.lit.util.OSUtil       : 匹配结果为[99, 2204]
+2024-04-07 16:44:11.343c.i.mooctest.lit.experimentMultipleTest  : 参考坐标为      [107,2197]
+开始   ios第10步--->安卓第10步   回放
+2024-04-07 16:44:12.349cn.iselab.mooctest.lit.util.OSUtil       : 开始第10步脚本的回放
+2024-04-07 16:44:12.349cn.iselab.mooctest.lit.util.OSUtil       : ## 图象匹配模块开始 ##
+2024-04-07 16:44:12.957cn.iselab.mooctest.lit.util.OSUtil       : imageMatch方法: 匹配结果为[554,329]
+2024-04-07 16:44:14.957cn.iselab.mooctest.lit.util.OSUtil       : 匹配结果为[554, 329]
+2024-04-07 16:44:16.967c.i.mooctest.lit.experimentMultipleTest  : 参考坐标为      [541,319]
+用时86s
+结束！---------------------------------------------------------
+2024-04-07 16:44:17.979  INFO 23168 --- [       Thread-2] o.s.w.c.s.GenericWebApplicationContext   : Closing org.springframework.web.context.support.GenericWebApplicationContext@10289886: startup date [Sun Apr 07 16:40:54 CST 2024]; root of context hierarchy
+2024-04-07 16:44:17.983  INFO 23168 --- [       Thread-2] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-04-07 16:44:17.984  INFO 23168 --- [       Thread-2] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2024-04-07 16:44:17.988  INFO 23168 --- [       Thread-2] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+
+Process finished with exit code 0
